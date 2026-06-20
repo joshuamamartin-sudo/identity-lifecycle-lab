@@ -1,0 +1,10 @@
+Employee Name,Department,System,Current Access,Access Needed,Review Decision,Reason,Reviewer
+Maya Chen,Finance,Company Email,Standard User,Yes,Keep,Required for business communication,Jordan Lee
+Maya Chen,Finance,Finance System,Finance Analyst Role,Yes,Keep,Required for finance reporting,Jordan Lee
+Maya Chen,Finance,VPN,Standard Remote Access,Yes,Keep,Required for remote work,Jordan Lee
+Alex Rivera,Finance,CRM,Sales User,No,Remove,Employee transferred out of Sales,Jordan Lee
+Alex Rivera,Finance,Sales Shared Drive,Sales Folder Access,No,Remove,Access no longer matches job role,Jordan Lee
+Alex Rivera,Finance,Finance Shared Drive,Finance Folder Access,Yes,Keep,Required for new Finance role,Jordan Lee
+Riley Morgan,Finance,Finance System,Finance Analyst Role,No,Remove,Employee is leaving the company,Jordan Lee
+Riley Morgan,Finance,VPN,Standard Remote Access,No,Remove,Employee is leaving the company,Jordan Lee
+Riley Morgan,Finance,Shared Drive,Finance Folder Access,No,Remove,Employee is leaving the company,Jordan Lee
